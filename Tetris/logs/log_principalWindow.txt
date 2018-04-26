@@ -1,0 +1,157 @@
+->Excepcion: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada)java.io.FileNotFoundException, 2018-04-25
+->Excepcion: java.lang.NullPointerException, 2018-04-25
+->Excepcion: class: ventanaPrincipal, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->Excepcion: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-25
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-25
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: xogo,Method: createSounfGameOver, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
+->class: ventanaPrincipal,Method: musicBackgraund, error: java.io.FileNotFoundException: resources1\Music\backgroun_tetris.wav (El sistema no puede encontrar la ruta especificada), 2018-04-26
+->class: ventanaPrincipal,Method: musicOnOff, error: java.lang.NullPointerException, 2018-04-26
